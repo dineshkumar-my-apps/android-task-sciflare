@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android-Assessment-Sciflare-Technologies</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyAOUmwjPCUmiWHjrk1TJJB8cftU9z-F82A</string>
+    <string name="task1">Using Kotlin Coroutine (MVVM design pattern) Call API and Store data to Local database (Using Room Database) and Edit the data to store local Room database, when we again open the App its should be the newly updated local Database value only to show the List (Ex : Name, Email,Mobile, Gender),</string>
+    <string name="task2">Google map to show the Current Latitude and Longitude</string>
+</resources>
